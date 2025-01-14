@@ -1,12 +1,12 @@
+E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.AssemblyInfoInputs.cache
+E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.AssemblyInfo.cs
+E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.csproj.CoreCompileInputs.cache
 E:\workspace\C#\DelosRPG\bin\Debug\net9.0\DelosRPG.exe
 E:\workspace\C#\DelosRPG\bin\Debug\net9.0\DelosRPG.deps.json
 E:\workspace\C#\DelosRPG\bin\Debug\net9.0\DelosRPG.runtimeconfig.json
 E:\workspace\C#\DelosRPG\bin\Debug\net9.0\DelosRPG.dll
 E:\workspace\C#\DelosRPG\bin\Debug\net9.0\DelosRPG.pdb
-E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.GeneratedMSBuildEditorConfig.editorconfig
-E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.AssemblyInfoInputs.cache
-E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.AssemblyInfo.cs
-E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.csproj.CoreCompileInputs.cache
 E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.dll
 E:\workspace\C#\DelosRPG\obj\Debug\net9.0\refint\DelosRPG.dll
 E:\workspace\C#\DelosRPG\obj\Debug\net9.0\DelosRPG.pdb

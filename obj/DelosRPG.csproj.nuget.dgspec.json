@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workspace\\C#\\DelosRpg\\DelosRPG.csproj": {}
+    "E:\\workspace\\C#\\DelosRPG\\DelosRPG.csproj": {}
   },
   "projects": {
-    "E:\\workspace\\C#\\DelosRpg\\DelosRPG.csproj": {
+    "E:\\workspace\\C#\\DelosRPG\\DelosRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace\\C#\\DelosRpg\\DelosRPG.csproj",
+        "projectUniqueName": "E:\\workspace\\C#\\DelosRPG\\DelosRPG.csproj",
         "projectName": "DelosRPG",
-        "projectPath": "E:\\workspace\\C#\\DelosRpg\\DelosRPG.csproj",
+        "projectPath": "E:\\workspace\\C#\\DelosRPG\\DelosRPG.csproj",
         "packagesPath": "C:\\Users\\Veik\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace\\C#\\DelosRpg\\obj\\",
+        "outputPath": "E:\\workspace\\C#\\DelosRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Veik\\AppData\\Roaming\\NuGet\\NuGet.Config"
